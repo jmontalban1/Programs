@@ -1,0 +1,10 @@
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TED.Data\bin\Debug\Star-TED.Data.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TED.Data\bin\Debug\Star-TED.Data.pdb
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TED.Data\obj\Debug\Star-TED.Data.csprojResolveAssemblyReference.cache
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TED.Data\obj\Debug\Star-TED.Data.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TED.Data\obj\Debug\Star-TED.Data.pdb
+E:\Programs\Star-TED.Data\bin\Debug\Star-TED.Data.dll
+E:\Programs\Star-TED.Data\bin\Debug\Star-TED.Data.pdb
+E:\Programs\Star-TED.Data\obj\Debug\Star-TED.Data.csprojResolveAssemblyReference.cache
+E:\Programs\Star-TED.Data\obj\Debug\Star-TED.Data.dll
+E:\Programs\Star-TED.Data\obj\Debug\Star-TED.Data.pdb

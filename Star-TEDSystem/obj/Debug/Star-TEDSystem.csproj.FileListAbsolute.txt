@@ -1,0 +1,24 @@
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\bin\Debug\Star-TEDSystem.dll.config
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\bin\Debug\Star-TEDSystem.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\bin\Debug\Star-TEDSystem.pdb
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\bin\Debug\EntityFramework.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\bin\Debug\Star-TED.Data.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\bin\Debug\Star-TED.Data.pdb
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\bin\Debug\EntityFramework.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\obj\Debug\Star-TEDSystem.csprojResolveAssemblyReference.cache
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\obj\Debug\Star-TEDSystem.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\Star-TEDSystem\obj\Debug\Star-TEDSystem.pdb
+E:\Programs\Star-TEDSystem\bin\Debug\Star-TEDSystem.dll.config
+E:\Programs\Star-TEDSystem\bin\Debug\Star-TEDSystem.dll
+E:\Programs\Star-TEDSystem\bin\Debug\Star-TEDSystem.pdb
+E:\Programs\Star-TEDSystem\bin\Debug\EntityFramework.dll
+E:\Programs\Star-TEDSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programs\Star-TEDSystem\bin\Debug\Star-TED.Data.dll
+E:\Programs\Star-TEDSystem\bin\Debug\Star-TED.Data.pdb
+E:\Programs\Star-TEDSystem\bin\Debug\EntityFramework.xml
+E:\Programs\Star-TEDSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programs\Star-TEDSystem\obj\Debug\Star-TEDSystem.csprojResolveAssemblyReference.cache
+E:\Programs\Star-TEDSystem\obj\Debug\Star-TEDSystem.dll
+E:\Programs\Star-TEDSystem\obj\Debug\Star-TEDSystem.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title=""  description="root">
+    <siteMapNode url="~/Default.aspx" title="Home"  description="" />
+    <!--<siteMapNode url="~/Default.aspx" title="Default Page"  description="" />-->
+    <siteMapNode url="" title="Form Pages">
+      <siteMapNode url="~/ExercisePages/FormA.aspx" title="FORMA"  description="" />
+      <siteMapNode url="~/ExercisePages/FormB.aspx" title="FORMB"  description="" />
+      <siteMapNode url="~/ExercisePages/FormC.aspx" title="FROMC"  description="" />
+    </siteMapNode>
+   
+    <siteMapNode url="~/About.aspx" title="About"  description="" />
+    <siteMapNode url="~/Contact.aspx" title="Contact"  description="" />
+  </siteMapNode>
+</siteMap>

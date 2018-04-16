@@ -1,0 +1,166 @@
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\ApplicationInsights.config
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\csc.exe
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\vbc.exe
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\WebApp.dll.config
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\WebApp.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\WebApp.pdb
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Antlr3.Runtime.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\EntityFramework.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\EntityFramework.SqlServer.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.Web.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Newtonsoft.Json.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Owin.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\System.Web.Optimization.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\System.Web.Providers.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\WebGrease.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.Web.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\System.Web.Optimization.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Antlr3.Runtime.pdb
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Newtonsoft.Json.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\EntityFramework.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\EntityFramework.SqlServer.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\System.Web.Providers.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\obj\Debug\WebApp.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\obj\Debug\WebApp.pdb
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Star-TED.Data.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Star-TEDSystem.dll
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Star-TED.Data.pdb
+c:\users\john's gaming pc\documents\visual studio 2015\Projects\Programs\WebApp\bin\Star-TEDSystem.pdb
+E:\Programs\WebApp\bin\ApplicationInsights.config
+E:\Programs\WebApp\bin\roslyn\csc.exe
+E:\Programs\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programs\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programs\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programs\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programs\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programs\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programs\WebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Programs\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programs\WebApp\bin\roslyn\vbc.exe
+E:\Programs\WebApp\bin\roslyn\VBCSCompiler.exe
+E:\Programs\WebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Programs\WebApp\bin\WebApp.dll.config
+E:\Programs\WebApp\bin\WebApp.dll
+E:\Programs\WebApp\bin\WebApp.pdb
+E:\Programs\WebApp\bin\Antlr3.Runtime.dll
+E:\Programs\WebApp\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Programs\WebApp\bin\AspNet.ScriptManager.jQuery.dll
+E:\Programs\WebApp\bin\EntityFramework.dll
+E:\Programs\WebApp\bin\EntityFramework.SqlServer.dll
+E:\Programs\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Programs\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Programs\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Programs\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Programs\WebApp\bin\Microsoft.AI.Web.dll
+E:\Programs\WebApp\bin\Microsoft.AI.WindowsServer.dll
+E:\Programs\WebApp\bin\Microsoft.ApplicationInsights.dll
+E:\Programs\WebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Programs\WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Programs\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programs\WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Programs\WebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Programs\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programs\WebApp\bin\Microsoft.Owin.dll
+E:\Programs\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.dll
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Programs\WebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Programs\WebApp\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Programs\WebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Programs\WebApp\bin\Newtonsoft.Json.dll
+E:\Programs\WebApp\bin\Owin.dll
+E:\Programs\WebApp\bin\Star-TED.Data.dll
+E:\Programs\WebApp\bin\Star-TEDSystem.dll
+E:\Programs\WebApp\bin\System.Web.Optimization.dll
+E:\Programs\WebApp\bin\System.Web.Providers.dll
+E:\Programs\WebApp\bin\WebGrease.dll
+E:\Programs\WebApp\bin\Star-TED.Data.pdb
+E:\Programs\WebApp\bin\Star-TEDSystem.pdb
+E:\Programs\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Programs\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Programs\WebApp\bin\Microsoft.AI.Web.xml
+E:\Programs\WebApp\bin\Microsoft.AI.WindowsServer.xml
+E:\Programs\WebApp\bin\Microsoft.ApplicationInsights.xml
+E:\Programs\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programs\WebApp\bin\System.Web.Optimization.xml
+E:\Programs\WebApp\bin\Antlr3.Runtime.pdb
+E:\Programs\WebApp\bin\Newtonsoft.Json.xml
+E:\Programs\WebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Programs\WebApp\bin\EntityFramework.xml
+E:\Programs\WebApp\bin\EntityFramework.SqlServer.xml
+E:\Programs\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Programs\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Programs\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programs\WebApp\bin\System.Web.Providers.xml
+E:\Programs\WebApp\bin\Microsoft.Owin.xml
+E:\Programs\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.xml
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Programs\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Programs\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\Programs\WebApp\obj\Debug\WebApp.dll
+E:\Programs\WebApp\obj\Debug\WebApp.pdb
