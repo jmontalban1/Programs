@@ -22,7 +22,7 @@ namespace Star_TEDSystem.BLL
             }
         }
 
-        public Program Products_Get(int productid)
+        public Program Program_Get(string schoolcode)
         {
             using (var context = new Star_TEDContext())
             {
@@ -30,12 +30,12 @@ namespace Star_TEDSystem.BLL
                 //   .Find()
                 //this method takes a primary key value and searches
                 //   the associated sql table for that primary key
-                return context.Programs.Find(productid);
+                return context.Programs.Find(schoolcode);
             }
         }
 
         //Add Method
-        public int Product_Add(Program item)
+        public int Program_Add(Program item)
         {
             //input is an instance of all data for an entity
             //one could send in individual values in separate
@@ -48,6 +48,7 @@ namespace Star_TEDSystem.BLL
                 //    the database
                 //the new record is not YET physically on the 
                 //    database
+
                 context.Programs.Add(item);
 
                 //commit the staged record to the database table
@@ -67,7 +68,7 @@ namespace Star_TEDSystem.BLL
             }
         }
 
-        public int Product_Update(Program item)
+        public int Program_Update(Program item)
         {
             //if you wish to return the number of rows affected
             //   your rdt should be an int; otherwise use a void
@@ -85,7 +86,7 @@ namespace Star_TEDSystem.BLL
             }
         }
 
-        public int Product_Delete(int productid)
+        public int Program_Delete(int programid)
         {
             //if you wish to return the number of rows affected
             //   your rdt should be an int; otherwise use a void
@@ -123,5 +124,9 @@ namespace Star_TEDSystem.BLL
             }
         }
 
+        public Program Program_Get()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

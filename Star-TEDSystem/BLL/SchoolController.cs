@@ -20,5 +20,16 @@ namespace Star_TEDSystem.BLL
                 return context.Schools.ToList();
             }
         }
+        public Program School_Get(string schoolcode)
+        {
+            using (var context = new Star_TEDContext())
+            {
+                //we will use the EntityFramework extension method
+                //   .Find()
+                //this method takes a primary key value and searches
+                //   the associated sql table for that primary key
+                return context.Programs.Find(schoolcode);
+            }
+        }
     }
 }
