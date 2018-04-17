@@ -118,6 +118,24 @@ namespace WebApp.ExercisePages
             }
         }
 
+        protected void PSearch_Click(object send, EventArgs e)
+        {
+            if (ProgramList.SelectedIndex == 0)
+            {
+                errormsgs.Add("Select a program to search.");
+                LoadMessageDisplay(errormsgs, "alert alert-warning");
+            }
+            else
+            {
+                try
+                {
+                    ProgramController sysmgr = new ProgramController();
+                        
+                }
+            }
+        }
+       
+
 
 
 
