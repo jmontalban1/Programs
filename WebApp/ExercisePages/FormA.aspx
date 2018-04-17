@@ -6,14 +6,15 @@
     <div class="col-md-12">
         <asp:Label ID="Label5" runat="server" Text="Select a School"></asp:Label>&nbsp;&nbsp;
          <asp:DropDownList ID="SchoolList" runat="server"></asp:DropDownList>&nbsp;&nbsp;
-        <asp:Button ID="Search" runat="server" Text="Search"  OnClick="Search_Click"/> &nbsp;&nbsp;
+         <asp:Button ID="Search" runat="server" Text="Search"  OnClick="Search_Click"/> &nbsp;&nbsp;
         <asp:Button ID="Clear" runat="server" Text="Clear" />&nbsp;&nbsp;
         <asp:LinkButton ID="AddProgram" runat="server" Font-Size="X-Large">Add</asp:LinkButton>&nbsp;&nbsp;
          <asp:LinkButton ID="UpdateProgram" runat="server" Font-Size="X-Large">Update</asp:LinkButton>&nbsp;&nbsp;
-         <asp:LinkButton ID="RemoveProgram" runat="server" Font-Size="X-Large">Remove</asp:LinkButton>&nbsp;&nbsp;
-
-        
-    <asp:DataList ID="MessageList" runat="server">
+         <asp:LinkButton ID="RemoveProgram" runat="server" Font-Size="X-Large">Remove</asp:LinkButton>&nbsp;&nbsp;<br />
+         <asp:Label ID="Label8" runat="server" Text="Select a program"></asp:Label>&nbsp;&nbsp;
+         <asp:DropDownList ID="ProgramList" runat="server" OnSelectedIndexChanged="ProgramList_SelectedIndexChanged"></asp:DropDownList>
+        <asp:Button ID="PSearch" runat="server" Text="Program Search"  OnClick="PSearch_Click"/> &nbsp;&nbsp;
+        &nbsp;<asp:DataList ID="MessageList" runat="server">
         <ItemTemplate>
             <%# Container.DataItem %>
         </ItemTemplate>

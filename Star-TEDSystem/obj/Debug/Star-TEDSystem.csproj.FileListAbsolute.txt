@@ -46,3 +46,15 @@ C:\Users\jmontalban1\Desktop\Programs1\Star-TEDSystem\bin\Debug\EntityFramework.
 C:\Users\jmontalban1\Desktop\Programs1\Star-TEDSystem\obj\Debug\Star-TEDSystem.csprojResolveAssemblyReference.cache
 C:\Users\jmontalban1\Desktop\Programs1\Star-TEDSystem\obj\Debug\Star-TEDSystem.dll
 C:\Users\jmontalban1\Desktop\Programs1\Star-TEDSystem\obj\Debug\Star-TEDSystem.pdb
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\bin\Debug\Star-TEDSystem.dll.config
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\bin\Debug\Star-TEDSystem.dll
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\bin\Debug\Star-TEDSystem.pdb
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\bin\Debug\EntityFramework.dll
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\bin\Debug\Star-TED.Data.dll
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\bin\Debug\Star-TED.Data.pdb
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\bin\Debug\EntityFramework.xml
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\obj\Debug\Star-TEDSystem.csprojResolveAssemblyReference.cache
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\obj\Debug\Star-TEDSystem.dll
+C:\Users\jmontalban1\Documents\GitHub\Programs\Star-TEDSystem\obj\Debug\Star-TEDSystem.pdb
