@@ -118,33 +118,11 @@ namespace Star_TEDSystem.BLL
 
             using (var context = new Star_TEDContext())
             {
-                //Physical removal of a record
-                //locate the reocrd to be removed from the database
-                //var existing = context.Products.Find(productid);
 
-                //stage the removal of the record
-                //context.Products.Remove(existing);
+                var existing = context.Programs.Find(schoolcode);
+                context.Programs.Remove(existing);
 
-                //commit of the staged action
-                //capture the number of rows affected for the update
-                //   commit and return
-                //return context.SaveChanges();
 
-                //         OR
-
-                //Logical deletion of a record
-                //this usually involves some field on the record
-                //     which acts as a flag.
-                //for Product, there is a field called Discontinued
-                //to indicate that the records is logically deleted
-                //    this flag is set to a particular value: true
-                //if a logical delete is necessary for your system
-                //    you do an Update of the field for the record
-                //var existing = context.Programs.Find(productid);
-                //existing.Discontinued = true;
-                //context.Entry(existing).State = System.Data.Entity.EntityState.Modified;
-                //capture the number of rows affected for the update
-                //   commit and return
                 return context.SaveChanges();
             }
         }

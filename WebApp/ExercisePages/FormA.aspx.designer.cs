@@ -112,40 +112,58 @@ namespace WebApp.ExercisePages {
         protected global::System.Web.UI.WebControls.DataList MessageList;
         
         /// <summary>
-        /// Label9 control.
+        /// RemoveProgram_ConfirmButtonExtender control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label9;
+        protected global::AjaxControlToolkit.ConfirmButtonExtender RemoveProgram_ConfirmButtonExtender;
         
         /// <summary>
-        /// SearchPartialName control.
+        /// ProgramValidation control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox SearchPartialName;
+        protected global::System.Web.UI.WebControls.ValidationSummary ProgramValidation;
         
         /// <summary>
-        /// SearchProgram control.
+        /// RequiredFieldProgramName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button SearchProgram;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldProgramName;
         
         /// <summary>
-        /// ProgramSelectionList control.
+        /// RequiredFieldSchoolCode control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView ProgramSelectionList;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldSchoolCode;
+        
+        /// <summary>
+        /// CompareTuition control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CompareValidator CompareTuition;
+        
+        /// <summary>
+        /// CompareInternationalTuition control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CompareValidator CompareInternationalTuition;
         
         /// <summary>
         /// Label1 control.
