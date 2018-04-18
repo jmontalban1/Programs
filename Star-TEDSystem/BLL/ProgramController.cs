@@ -34,25 +34,24 @@ namespace Star_TEDSystem.BLL
                 return context.Programs.Find(schoolcode);
             }
         }
-
-        public List<Program> Product_FindBySchool(string schoolid)
+        public Program SchoolProgram_Get(int programid)
         {
             using (var context = new Star_TEDContext())
             {
-                //data will be returned as an IEnumerable<T> dataset
-                //this dataset can be converted to a List<T> by using 
-                //     .ToList()
-                //the DbSet<T> is not used
-                //the method Database.SqlQuery<T>() is used to
-                //     execute the database query
-                //<T> represents the data class container description
-                //     which in this case is also the DbSet<T> description
-                //the parameters of the query is 
-                //  a) the call of the sql procedure with parameters
-                //  b) a list of SqlParameter() instance(s); each instance
-                //          representing a parameter in the sql procedure call
-                //     the instance has two entries, the parameter name and
-                //          the value for the parameter
+                //we will use the EntityFramework extension method
+                //   .Find()
+                //this method takes a primary key value and searches
+                //   the associated sql table for that primary key
+                return context.Programs.Find(programid);
+            }
+        }
+
+
+
+        public List<Program> Programs_FindBySchool(string schoolid)
+        {
+            using (var context = new Star_TEDContext())
+            {
                 var results = context.Database.SqlQuery<Program>(
                     "Programs_FindBySchool @PartialName",
                     new SqlParameter("PartialName", schoolid));
