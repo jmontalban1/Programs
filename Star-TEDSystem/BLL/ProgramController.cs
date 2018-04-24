@@ -59,6 +59,22 @@ namespace Star_TEDSystem.BLL
             }
         }
 
+        public List<Program> Programs_FindByProgramName(string programname)
+        {
+            using (var context = new Star_TEDContext())
+            {
+                var results = context.Database.SqlQuery<Program>(
+                    "Programs_FindByProgramName @ProgramName",
+                    new SqlParameter("ProgramName", programname));
+                return results.ToList();
+            }
+        }
+
+
+        
+
+        
+
         //Add Method
         public int Program_Add(Program item)
         {

@@ -7,12 +7,15 @@ using System.Threading.Tasks;
 #region Additional Namespaces
 using Star_TED.Data.Entities;
 using Star_TEDSystem.DAL;
+using System.ComponentModel;
 #endregion
 
 namespace Star_TEDSystem.BLL
 {
+    [DataObject]
     public class SchoolController
     {
+        [DataObjectMethod(DataObjectMethodType.Select)]
         public List<School> School_List()
         {
             using (var context = new Star_TEDContext())
@@ -20,6 +23,7 @@ namespace Star_TEDSystem.BLL
                 return context.Schools.ToList();
             }
         }
+        [DataObjectMethod(DataObjectMethodType.Select, false)]
         public Program School_Get(string schoolcode)
         {
             using (var context = new Star_TEDContext())
