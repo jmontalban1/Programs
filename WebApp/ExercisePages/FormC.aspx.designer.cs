@@ -13,24 +13,6 @@ namespace WebApp.ExercisePages {
     public partial class FormC {
         
         /// <summary>
-        /// School control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList School;
-        
-        /// <summary>
-        /// Button1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
-        
-        /// <summary>
         /// SchoolDataSource control.
         /// </summary>
         /// <remarks>
@@ -40,6 +22,24 @@ namespace WebApp.ExercisePages {
         protected global::System.Web.UI.WebControls.ObjectDataSource SchoolDataSource;
         
         /// <summary>
+        /// School control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList School;
+        
+        /// <summary>
+        /// Search control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Search;
+        
+        /// <summary>
         /// ProgramSelectionList control.
         /// </summary>
         /// <remarks>
@@ -47,5 +47,14 @@ namespace WebApp.ExercisePages {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView ProgramSelectionList;
+        
+        /// <summary>
+        /// ProductSelectionODS control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ObjectDataSource ProductSelectionODS;
     }
 }

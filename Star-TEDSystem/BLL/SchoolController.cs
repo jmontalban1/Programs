@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 using Star_TED.Data.Entities;
 using Star_TEDSystem.DAL;
 using System.ComponentModel;
+using System.Data.SqlClient;
+
 #endregion
 
 namespace Star_TEDSystem.BLL
@@ -24,15 +26,26 @@ namespace Star_TEDSystem.BLL
             }
         }
         [DataObjectMethod(DataObjectMethodType.Select, false)]
-        public Program School_Get(string schoolcode)
+        //public Program School_Get(string schoolcode)
+        //{
+        //    using (var context = new Star_TEDContext())
+        //    {
+        //        //we will use the EntityFramework extension method
+        //        //   .Find()
+        //        //this method takes a primary key value and searches
+        //        //   the associated sql table for that primary key
+        //        return context.Programs.Find(schoolcode);
+        //    }
+        //}
+
+        public List<Program> Programs_FindBySchool(string schoolid)
         {
             using (var context = new Star_TEDContext())
             {
-                //we will use the EntityFramework extension method
-                //   .Find()
-                //this method takes a primary key value and searches
-                //   the associated sql table for that primary key
-                return context.Programs.Find(schoolcode);
+                var param = new SqlParameter("schoolcode", schoolid);
+                string sql = "EXEC Programs_FindBySchool @schoolcode";
+                var results = context.Database.SqlQuery<Program>(sql, param);
+                return results.ToList();
             }
         }
     }
