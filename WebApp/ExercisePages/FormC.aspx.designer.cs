@@ -49,12 +49,12 @@ namespace WebApp.ExercisePages {
         protected global::System.Web.UI.WebControls.GridView ProgramSelectionList;
         
         /// <summary>
-        /// ProductSelectionODS control.
+        /// ProgramSelectionODS control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ObjectDataSource ProductSelectionODS;
+        protected global::System.Web.UI.WebControls.ObjectDataSource ProgramSelectionODS;
     }
 }

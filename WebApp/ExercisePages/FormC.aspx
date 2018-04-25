@@ -9,7 +9,7 @@
     <div class="row">
         <div class="col-md-2">
             <asp:DropDownList ID="School" runat="server" DataSourceID="SchoolDataSource" DataTextField="SchoolName" DataValueField="SchoolCode" AppendDataBoundItems="true">
-                <asp:ListItem Value="">Select...</asp:ListItem>
+                <asp:ListItem>Select...</asp:ListItem>
             </asp:DropDownList>
             <asp:Button ID="Search" runat="server" Height="25px" Text="Button" />
         </div>
@@ -17,7 +17,7 @@
 
         <div class="col-md-6">
             <asp:GridView ID="ProgramSelectionList" runat="server" AutoGenerateColumns="False"
-                CssClass="table" GridLines="Horizontal" DataSourceID="ProductSelectionODS" BorderStyle="None" AllowPaging="True">
+                CssClass="table" GridLines="Horizontal" DataSourceID="ProgramSelectionODS" BorderStyle="None" AllowPaging="True">
                 <Columns>
                     <asp:BoundField DataField="ProgramID" HeaderText="ProgramID" SortExpression="ProgramID"></asp:BoundField>
                     <asp:BoundField DataField="ProgramName" HeaderText="ProgramName" SortExpression="ProgramName"></asp:BoundField>
@@ -35,7 +35,7 @@
             </asp:GridView>
         </div>
 
-        <asp:ObjectDataSource ID="ProductSelectionODS" runat="server" OldValuesParameterFormatString="original_{0}" SelectMethod="Programs_FindBySchool" TypeName="Star_TEDSystem.BLL.SchoolController">
+        <asp:ObjectDataSource ID="ProgramSelectionODS" runat="server" OldValuesParameterFormatString="original_{0}" SelectMethod="Programs_FindBySchool" TypeName="Star_TEDSystem.BLL.SchoolController">
             <SelectParameters>
                 <asp:ControlParameter ControlID="School" PropertyName="SelectedValue" Name="schoolid" Type="String"></asp:ControlParameter>
             </SelectParameters>
