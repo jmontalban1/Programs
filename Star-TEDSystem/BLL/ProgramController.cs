@@ -8,13 +8,17 @@ using System.Threading.Tasks;
 using Star_TED.Data.Entities;
 using Star_TEDSystem.DAL;
 using System.Data.SqlClient;
+using System.ComponentModel;
 #endregion
 
 
 namespace Star_TEDSystem.BLL
+
 {
+    [DataObject]
     public class ProgramController
     {
+        
         public List<Program> Program_List()
         {
             using (var context = new Star_TEDContext())
@@ -22,7 +26,7 @@ namespace Star_TEDSystem.BLL
                 return context.Programs.ToList();
             }
         }
-
+        [DataObjectMethod(DataObjectMethodType.Select)]
         public Program Program_Get(string schoolcode)
         {
             using (var context = new Star_TEDContext())

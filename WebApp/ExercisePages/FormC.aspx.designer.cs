@@ -13,6 +13,15 @@ namespace WebApp.ExercisePages {
     public partial class FormC {
         
         /// <summary>
+        /// SchoolCodeODS control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ObjectDataSource SchoolCodeODS;
+        
+        /// <summary>
         /// SchoolDataSource control.
         /// </summary>
         /// <remarks>
@@ -38,6 +47,15 @@ namespace WebApp.ExercisePages {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Search;
+        
+        /// <summary>
+        /// MessageList control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DataList MessageList;
         
         /// <summary>
         /// ProgramSelectionList control.

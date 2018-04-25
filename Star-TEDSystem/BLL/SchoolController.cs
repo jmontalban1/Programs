@@ -17,7 +17,7 @@ namespace Star_TEDSystem.BLL
     [DataObject]
     public class SchoolController
     {
-        [DataObjectMethod(DataObjectMethodType.Select)]
+        [DataObjectMethod(DataObjectMethodType.Select, false)]
         public List<School> School_List()
         {
             using (var context = new Star_TEDContext())

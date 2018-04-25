@@ -16,17 +16,19 @@
         <br />
     </div>
 
-    <div class="col-md-2">
-        <asp:Label ID="Label9" runat="server" Text="Enter partial program name:"></asp:Label><br />
-        <asp:TextBox ID="SearchPartialName" runat="server"></asp:TextBox><br />
-        <asp:Button ID="SearchProgram" runat="server" Text="Search" CssClass="btn btn-primary" OnClick="SearchProgram_Click" />
-    </div>
     <div class="col-md-6">
-
-
-
+        <asp:Label ID="Label9" runat="server" Text="Enter partial program name:"></asp:Label><br />
+        <asp:TextBox ID="SearchPartialName" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        <asp:Button ID="SearchProgram" runat="server" Text="Search" CssClass="btn btn-primary" OnClick="SearchProgram_Click" />
+        <br />
+    </div>
+    <br />
+    <br />
+    <div class="col-md-12">
         <asp:GridView ID="ProgramSelectionList" runat="server" AutoGenerateColumns="False"
-            CssClass="table" GridLines="Horizontal" BorderStyle="None" AllowPaging="True" OnPageIndexChanging="ProgramSelectionList_PageIndexChanging" PageSize="5">
+            CssClass="table" GridLines="Horizontal" BorderStyle="None" AllowPaging="True" OnPageIndexChanging="ProgramSelectionList_PageIndexChanging" PageSize="3">
             <Columns>
                 <asp:CommandField ShowSelectButton="True" />
                 <asp:TemplateField>
@@ -73,6 +75,9 @@
             </EmptyDataTemplate>
             <PagerSettings Mode="NumericFirstLast" PageButtonCount="3" />
         </asp:GridView>
+
     </div>
+
+    <script src="../Scripts/bootwrap-freecode.js"></script>
 
 </asp:Content>
